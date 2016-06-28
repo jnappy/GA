@@ -1,11 +1,11 @@
-### iOSI Reading Guide
+# iOSI Reading Guide
 
 ## Week 1
 
-# Swift Data Types and Values**
+### Swift Data Types and Values
 * **Integer**
 * **Double**
 * **String**
 * **Bools**
 
-# Varibals and Constants**
+### Varibals and Constants
