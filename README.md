@@ -34,12 +34,12 @@
  
 #### Object-Oriented Programming
 
-### IBOutlets/IBActions
+#### IBOutlets/IBActions
 
-## Week 3
+### Week 3
 
-### Table Views
+#### Table Views
 
-### Passing Data
+#### Passing Data
 
-### Debugging fundamentals
+#### Debugging fundamentals
