@@ -8,7 +8,7 @@
 
 #### Command Line
 
-#### Git/Github Lab
+#### Git/Github
 
 #### Data Types and Values
 
