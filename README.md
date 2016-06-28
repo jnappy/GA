@@ -1,11 +1,37 @@
-# iOSI Reading Guide
+# Programming for Non-Programmers Reading Guide
 
 ## Week 1
 
-### Swift Data Types and Values
-* **Integer**
-* **Double**
-* **String**
-* **Bools**
+### Data Types and Values
 
-### Varibals and Constants
+### Variables and Constants
+
+### Control Flow (Conditionals)
+
+### Control Flow (Loops)
+
+## Week 2
+
+### Functions
+
+### Data Structures
+
+#### Arrays
+
+#### Dictionaries
+
+### Optionals
+
+### Classes and Objects
+ 
+### Object-Oriented Programming
+
+### IBOutlets/IBActions
+
+## Week 3
+
+### Table Views
+
+### Passing Data
+
+### Debugging fundamentals
