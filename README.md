@@ -1,30 +1,38 @@
 # Programming for Non-Programmers Reading Guide
 
-## Week 1
+### Week 1
 
-### Data Types and Values
+#### Views
 
-### Variables and Constants
+#### View Controllers
 
-### Control Flow (Conditionals)
+#### Command Line
 
-### Control Flow (Loops)
+#### Git/Github Lab
 
-## Week 2
+#### Data Types and Values
 
-### Functions
+#### Variables and Constants
 
-### Data Structures
+#### Control Flow (Conditionals)
 
-#### Arrays
+#### Control Flow (Loops)
 
-#### Dictionaries
+### Week 2
 
-### Optionals
+#### Functions
 
-### Classes and Objects
+#### Data Structures
+
+##### Arrays
+
+##### Dictionaries
+
+#### Optionals
+
+#### Classes and Objects
  
-### Object-Oriented Programming
+#### Object-Oriented Programming
 
 ### IBOutlets/IBActions
 
